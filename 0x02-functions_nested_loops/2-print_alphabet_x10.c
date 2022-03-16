@@ -10,7 +10,7 @@ int count, alphabets;
 count = 10;
 while (count > 0)
 {
-for (alphabets = 'a', alphabets <= 'z'; alphabets++)
+for (alphabets = 'a'; alphabets <= 'z'; alphabets++)
 {
 _putchar(alphabets);
 }
