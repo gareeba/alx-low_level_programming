@@ -36,5 +36,5 @@ else
 {
 printf("98");
 }
-print("\n");
+printf("\n");
 }
